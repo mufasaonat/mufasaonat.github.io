@@ -29,9 +29,9 @@ ul,li{
 }
 ul,li,a{
     text-decoration: none;
-    color:burlywood;
+    color: blueviolet;
 }
 a:hover{
-    color: blueviolet;
+    color: white;
     background-color: blanchedalmond;
 }
