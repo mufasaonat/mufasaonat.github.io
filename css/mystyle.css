@@ -14,9 +14,11 @@ h1{
 }
 .head{
     text-align: center;
-    background-color: bisque;
     padding: 5px 5px 15px 5px;
-}     
+}    
+.row{
+    background-color: bisque;
+} 
 ul{
     list-style: none;
 }
