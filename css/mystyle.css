@@ -1,6 +1,18 @@
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+/* Styles for mobile devices */
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    .image img {
+        width: 100%; /* Make the image responsive */
+        height: auto;
+    }
+}
 .body{
     background-color: #f0f0f0;            
 }
